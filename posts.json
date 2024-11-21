@@ -1,58 +1,58 @@
 [
-  {
-    "title": "Daytona Beach Adventures",
-    "snippet": "Explore the sandy shores and vibrant nightlife of Daytona Beach...",
-    "image": "assets/images/daytona.jpg",
-    "category": "Beach",
-    "tags": ["USA", "Adventure", "Beach"],
-    "url": "src/daytona-beach.html"
-  },
-  {
-    "title": "Discover Jamaica",
-    "snippet": "From beaches to mountains, Jamaica offers a unique blend of culture and nature...",
-    "image": "assets/images/jamaica.jpg",
-    "category": "Island",
-    "tags": ["Caribbean", "Culture", "Nature"],
-    "url": "src/jamaica.html"
-  },
-  {
-    "title": "The Beauty of the Bahamas",
-    "snippet": "Experience the turquoise waters and rich marine life of the Bahamas...",
-    "image": "assets/images/bahamas.jpg",
-    "category": "Island",
-    "tags": ["Caribbean", "Beach", "Marine Life"],
-    "url": "src/bahamas.html"
-  },
-  {
-    "title": "Dominican Republic Getaway",
-    "snippet": "Explore the vibrant culture, stunning beaches, and exciting nightlife...",
-    "image": "assets/images/dominican-republic.jpg",
-    "category": "Island",
-    "tags": ["Caribbean", "Culture", "Nightlife"],
-    "url": "src/dominican-republic.html"
-  },
-  {
-    "title": "Colorful Curacao",
-    "snippet": "With its colorful buildings and vibrant atmosphere, Curacao is a Caribbean gem...",
-    "image": "assets/images/curacao.jpg",
-    "category": "Island",
-    "tags": ["Caribbean", "Culture", "Scenic"],
-    "url": "src/curacao.html"
-  },
-  {
-    "title": "Aruba Adventures",
-    "snippet": "Known for its beautiful beaches and year-round sunshine, Aruba is a dream destination...",
-    "image": "assets/images/aruba.jpg",
-    "category": "Beach",
-    "tags": ["Caribbean", "Sunshine", "Relaxation"],
-    "url": "src/aruba.html"
-  },
-  {
-    "title": "Turks and Caicos Paradise",
-    "snippet": "Experience the luxury and tranquility of the Turks and Caicos Islands...",
-    "image": "assets/images/turks-and-caicos.jpg",
-    "category": "Island",
-    "tags": ["Caribbean", "Luxury", "Beach"],
-    "url": "src/turks-and-caicos.html"
-  }
-]
+    {
+      "title": "Daytona Beach Adventures",
+      "snippet": "Explore the sandy shores and vibrant nightlife of Daytona Beach...",
+      "image": "assets/images/daytona.jpg",
+      "category": "Beach",
+      "tags": ["USA", "Adventure", "Beach"],
+      "url": "daytona-beach.html"
+    },
+    {
+      "title": "Discover Jamaica",
+      "snippet": "From beaches to mountains, Jamaica offers a unique blend of culture and nature...",
+      "image": "assets/images/jamaica.jpg",
+      "category": "Island",
+      "tags": ["Caribbean", "Culture", "Nature"],
+      "url": "jamaica.html"
+    },
+    {
+      "title": "The Beauty of the Bahamas",
+      "snippet": "Experience the turquoise waters and rich marine life of the Bahamas...",
+      "image": "assets/images/bahamas.jpg",
+      "category": "Island",
+      "tags": ["Caribbean", "Beach", "Marine Life"],
+      "url": "bahamas.html"
+    },
+    {
+      "title": "Dominican Republic Getaway",
+      "snippet": "Explore the vibrant culture, stunning beaches, and exciting nightlife...",
+      "image": "assets/images/dominican-republic.jpg",
+      "category": "Island",
+      "tags": ["Caribbean", "Culture", "Nightlife"],
+      "url": "dominican-republic.html"
+    },
+    {
+      "title": "Colorful Curacao",
+      "snippet": "With its colorful buildings and vibrant atmosphere, Curacao is a Caribbean gem...",
+      "image": "assets/images/curacao.jpg",
+      "category": "Island",
+      "tags": ["Caribbean", "Culture", "Scenic"],
+      "url": "curacao.html"
+    },
+    {
+      "title": "Aruba Adventures",
+      "snippet": "Known for its beautiful beaches and year-round sunshine, Aruba is a dream destination...",
+      "image": "assets/images/aruba.jpg",
+      "category": "Beach",
+      "tags": ["Caribbean", "Sunshine", "Relaxation"],
+      "url": "src/aruba.html"
+    },
+    {
+      "title": "Turks and Caicos Paradise",
+      "snippet": "Experience the luxury and tranquility of the Turks and Caicos Islands...",
+      "image": "assets/images/turks-and-caicos.jpg",
+      "category": "Island",
+      "tags": ["Caribbean", "Luxury", "Beach"],
+      "url": "src/turks-and-caicos.html"
+    }
+  ]
